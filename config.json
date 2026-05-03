@@ -1,0 +1,9 @@
+{
+  "token": "PUT_TOKEN_HERE",
+  "mongo": "PUT_MONGO_URL",
+  "clientId": "PUT_BOT_ID",
+  "guilds": [
+    "1497416874173141135",
+    "1500409375435784352"
+  ]
+}
