@@ -1,0 +1,13 @@
+{
+  "name": "xp-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.0",
+    "mongoose": "^8.0.0"
+  }
+}
