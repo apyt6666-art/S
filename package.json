@@ -1,10 +1,10 @@
 {
   "name": "marriage-bot",
   "version": "1.0.0",
-  "description": "Marriage Economy Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
   },
   "dependencies": {
     "better-sqlite3": "^11.7.0",
